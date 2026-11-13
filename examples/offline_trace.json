@@ -1,0 +1,14 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "release_review",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "release_review",
+    "elapsed_seconds": 0.00023
+  }
+]

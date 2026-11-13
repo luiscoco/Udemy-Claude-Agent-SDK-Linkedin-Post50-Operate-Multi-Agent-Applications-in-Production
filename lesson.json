@@ -1,0 +1,15 @@
+{
+  "lesson": 49,
+  "title": "Operate Multi-Agent Applications in Production",
+  "application": "Production Release Rehearsal",
+  "purpose": "Rehearse health validation, release selection and rollback against local release records without changing a real deployment.",
+  "exercise": "Set candidate_health to True. Confirm that health evidence alone does not override a rejecting release review.",
+  "source_topics": [
+    "00-Infografía sobre flujos multiagente con Claude.png",
+    "01-package-the-multi-agent-application.png",
+    "02-configure-without-exposing-secrets.png",
+    "03-release-validate-and-roll-back.png",
+    "04-observe-every-workflow-stage.png",
+    "05-recover-from-failures-and-scale-safely.png"
+  ]
+}

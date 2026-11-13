@@ -1,0 +1,19 @@
+{
+  "lesson": 49,
+  "application": "Production Release Rehearsal",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "review": {
+      "ready": false,
+      "reason": "The candidate health check failed."
+    },
+    "decision": {
+      "previous": "v1",
+      "selected": "v1",
+      "action": "keep_previous",
+      "real_deployment_changed": false
+    }
+  },
+  "measured_cost_usd": null
+}
